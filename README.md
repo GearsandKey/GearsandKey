@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GearsandKey
+- 👀 I’m interested in being a software engineer.
+- 🌱 I’m currently learning React!
+- 💞️ I’m looking to collaborate on education tools!
+- 📫 How to reach me on twitter or LinkedIn!
